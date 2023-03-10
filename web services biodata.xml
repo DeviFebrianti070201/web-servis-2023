@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<biodata>
+        <dataDiri>
+            <namaSaya>
+                <awal>Devi</awal>
+                <akhir>Febrianti</akhir>
+                </namaSaya>
+</dataDiri>
+<ttl>
+    <tempat>Indonesia</tempat>
+    <tanggal>7 Februari</tanggal>
+    <tahun>2001</tahun>
+    </ttl>
+<pendidikan>
+    <status>Mahasiswi</status>
+    <kampus>STMIK Antar Bangsa</kampus>
+    </pendidikan>
+<datOrtu>
+    <dataAyah>
+    <namaAyah>
+        <awal>Abi</awal>
+        <akhir>Wiranata</akhir>
+        </namaAyah>
+</dataAyah>
+<dataIbu>
+    <namaIbu>
+        <awal>Ama</awal>
+        <akhir>Rina</akhir>
+        </namaIbu>
+</dataIbu>
+</datOrtu>
+<alamat>
+    <jalan>Jl. KH.Hasyim Ashari</jalan>
+    <kecamatan>Tangerang</kecamatan>
+    <kota>Kota Tangerang</kota>
+</alamat>
+
+<telp>087718535912</telp>
+<email>DeviFebrianti070201@gmail.com</email>
+</biodata>
+
